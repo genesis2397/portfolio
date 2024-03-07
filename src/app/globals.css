@@ -25,3 +25,9 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.bg-linear-gradient {
+  background: linear-gradient(to right, #e661a3, #960f8a);
+  /* Adjust the colors and direction as needed */
+}
+
