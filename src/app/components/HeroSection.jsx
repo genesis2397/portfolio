@@ -33,7 +33,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-          Become a versatile architect of the digital realm as a full-stack web developer. Seamlessly merging the artistry of front-end design with the precision of back-end functionality, you'll craft dynamic, user-centric experiences. 
+          Become a versatile architect of the digital realm as a full-stack web developer. Seamlessly merging the artistry of front-end design with the precision of back-end functionality, you&apos;ll craft dynamic, user-centric experiences. 
           </p>
           <div>
             <Link

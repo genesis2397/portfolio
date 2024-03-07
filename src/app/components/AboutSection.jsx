@@ -32,7 +32,7 @@ const TAB_DATA = [
     id: "certifications",
     content: (
       <ul className="list-disc pl-2">
-        <li>Laravel Master's (Udemy)</li>
+        <li>Laravel Master&apos;s (Udemy)</li>
       </ul>
     ),
   },
